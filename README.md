@@ -1,5 +1,6 @@
 <div align="center">
-![hero_image3](https://github.com/user-attachments/assets/da4fdce4-2f93-4fa0-b6ff-b2555a7462d9)
+   ![hero_image3](https://github.com/user-attachments/assets/91268454-dff8-4235-a9de-24f928b9f14c)
+
 </div>
 
 # 🧠 MotionLens – Interactive Biomechanics Learning Platform
