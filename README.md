@@ -1,4 +1,7 @@
-![hero_image](https://github.com/user-attachments/assets/34e02cb2-1563-4339-b91e-bd5635880007)
+<div align="center">
+![hero_image3](https://github.com/user-attachments/assets/da4fdce4-2f93-4fa0-b6ff-b2555a7462d9)
+</div>
+
 # 🧠 MotionLens – Interactive Biomechanics Learning Platform
 
 
