@@ -1,8 +1,6 @@
 <div align="center">
    ![hero_image3](https://github.com/user-attachments/assets/91268454-dff8-4235-a9de-24f928b9f14c)
 
-</div>
-
 # 🧠 MotionLens – Interactive Biomechanics Learning Platform
 
 
@@ -187,3 +185,5 @@ Special thanks to our highly talented team:
 
 📧 **Email**: [anas.bayoumi05@eng-st.cu.edu.eg](mailto:anas.bayoumi05@eng-st.cu.edu.eg)  
 🔗 **LinkedIn**: [Anas Mohamed](https://www.linkedin.com/in/anas-mohamed-716959313/)
+
+</div>
